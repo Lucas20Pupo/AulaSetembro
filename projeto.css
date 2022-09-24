@@ -1,0 +1,44 @@
+.container1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: cornflowerblue;
+    color: white;
+
+}
+
+.container2 {
+    display: flex;
+    background-color: white;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 2px 1em 0 1em;
+    font-size: 35px;
+}
+
+.container3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:black;
+    color: white;
+    
+}
+
+.borda{
+    border-radius: 15px;
+    border: solid 5px blue;
+}
+
+.margem{
+    margin: auto;
+}
+
+.imagem {
+    margin-left: auto;
+    display: block;
+
+}
